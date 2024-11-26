@@ -1,5 +1,4 @@
 # Emotion-and-Facial-Recognition
-# Emotion and Facial Recognition Device
 
 This project involves developing a device connected to a Raspberry Pi that captures images, detects faces, identifies individuals, and analyzes emotions. The system utilizes Python-based scripts and various machine learning models for facial recognition and emotion detection.
 
